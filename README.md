@@ -11,3 +11,9 @@ Este proyecto es una calculadora sencilla implementada con HTML, CSS y JavaScrip
 - Multiplicación
 - División
 - Interfaz de usuario simple y clara
+  
+## Contacto
+
+- **Nombre:** Iván Bermejo Hidalgo
+- **Email:** ibermejo@elpuig.xeill.net
+- **GitHub:** [IvanBermejoHidalgo](https://github.com/IvanBermejoHidalgo)
